@@ -4,7 +4,9 @@ export default function Home() {
   return (
     <>
       <Header />
-      <Example />
+      <div className='flex justify-center'>
+        <Example />
+      </div>
     </>
   );
 }
