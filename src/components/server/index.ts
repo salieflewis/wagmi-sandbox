@@ -1,2 +1,2 @@
-export * from './Caisson'
+export * from './WagmiSandbox'
 export * from './Deploy'

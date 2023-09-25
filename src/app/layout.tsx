@@ -4,7 +4,7 @@ import { Metadata } from 'next'
 import { satoshi } from '@/fonts'
 
 export const metadata: Metadata = {
-  title: 'Public Assembly - Caisson',
+  title: 'Wagmi Sandbox',
 }
 
 export default function RootLayout({
