@@ -1,5 +1,10 @@
-import { Header } from '@/client'
+import { Example, Header } from '@/client';
 
 export default function Home() {
-  return <Header />
+  return (
+    <>
+      <Header />
+      <Example />
+    </>
+  );
 }
